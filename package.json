@@ -1,5 +1,6 @@
 {
   "_aerobatic": {
+    "clientConfigVar": "globalCustom",
     "router": [
       {
         "module": "basic-auth",
