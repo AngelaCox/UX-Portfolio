@@ -4,7 +4,7 @@
     "router": [
       {
         "module": "basic-auth",
-        "path": "/protected",
+        "path": "/",
         "options": {
           "username": "$BASIC_AUTH_USERNAME",
           "password": "$BASIC_AUTH_PASSWORD",
