@@ -1,0 +1,26 @@
+{
+  "_aerobatic": {
+    "router": [
+      {
+        "module": "basic-auth",
+        "path": "/protected",
+        "options": {
+          "username": "$BASIC_AUTH_USERNAME",
+          "password": "$BASIC_AUTH_PASSWORD",
+          "loginPage": "login.html",
+          "maxFailedLogins": 5,
+          "failedLoginPeriod": 600
+        }
+      },
+      {
+        "module": "webpage"
+      },
+      {
+        "module": "custom-errors",
+        "errors": {
+          "403": "403.html"
+        }
+      }
+    ]
+  }
+}
