@@ -1,4 +1,10 @@
 {
+  "name": "angportfolio",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "http-server . -o -p 9999"
+  },
   "_aerobatic": {
     "clientConfigVar": "globalCustom",
     "router": [
@@ -7,11 +13,13 @@
         "path": "/",
         "options": {
           "username": "$BASIC_AUTH_USERNAME",
-          "password": "$BASIC_AUTH_PASSWORD",
+          "password": "$BASIC_AUTH_PASSWORD"
         }
       },
       {
-        "module": "webpage"
+        "module": "webpage",
+        "options": {
+        }
       }
     ]
   }
