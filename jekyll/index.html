@@ -2,19 +2,132 @@
 layout: default
 ---
 
-<div class="home">
+<!-- Main -->
+  <div id="main">
 
-  <h1>Posts</h1>
+    <!-- Intro -->
+      <section id="top" class="one dark cover">
+        <div class="container">
 
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
+          <header>
+            <h2 class="alt">Welcome to my site!
+            <p>Thanks for checking out my work.</p>
+          </header>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+          <footer>
+            <a href="#portfolio" class="button scrolly">Current blog post</a>
+          </footer>
 
-</div>
+        </div>
+      </section>
+
+    <!-- Portfolio -->
+      <section id="portfolio" class="two">
+        <div class="container">
+
+          <header>
+            <h2>Portfolio</h2>
+          </header>
+
+          <p>The following links and pages show a little of what I've done in the last few
+             years. As well as links to my works, I've used a product called Twine to create
+             an interactive showcase to allow you to follow through my career and see a bit
+             more of what I can do.</p>
+
+          <div class="row">
+            <div class="4u 12u$(mobile)">
+              <article class="item">
+                <a href="http://www.simtics.com/" target="_blank" class="image fit"><img src="images/SIMTICS.jpg" alt="" />
+                <header>
+                  <h3>SIMTICS e-Learning</h3>
+                </header>
+                </a>
+              </article>
+              <article class="item">
+                <a href="https://www.booktrack.com/content/" target="_blank" class="image fit"><img src="images/BOOKTRACK.jpg" alt="" /></a>
+                <header>
+                  </a>
+                  <h3>Booktrack</h3>
+                </header>
+              </article>
+            </div>
+            <div class="4u 12u$(mobile)">
+              <article class="item">
+                <a href="#" class="image fit"><img src="images/NEXTDC.jpg" alt="" /></a>
+                <header>
+                  <h3>NEXTDC</h3>
+                </header>
+              </article>
+              <article class="item">
+                <a href="#" class="image fit"><img src="images/pic05.jpg" alt="" /></a>
+                <header>
+                  <h3>MYOB</h3>
+                </header>
+              </article>
+            </div>
+            <div class="4u$ 12u$(mobile)">
+              <article class="item">
+                <a href="#" class="image fit"><img src="images/pic06.jpg" alt="" /></a>
+                <header>
+                  <h3>BMA</h3>
+                </header>
+              </article>
+              <article class="item">
+                <a href="#" class="image fit"><img src="images/pic07.jpg" alt="" /></a>
+                <header>
+                  <h3>Fiona Stanley Hospital</h3>
+                </header>
+              </article>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+    <!-- About Me -->
+      <section id="about" class="three">
+        <div class="container">
+
+          <header>
+            <h2>About Me</h2>
+          </header>
+
+          <a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+
+          <p>Originally from New Zealand, I've travelled and worked as a technical writer for over five years.
+          I've worked across many industries including software, music performance, rail, psychology, insurance
+          and data centres.	I love writing because I can be a terrible introvert, though I do actually enjoy
+          talking to people. Hobbies include ridiculous things like researching new doc piplines and reading
+          shameful amounts of books. I also like normal things like writing things that nobody will read,
+          playing my piano, riding my bike and swimming.</p>
+
+        </div>
+      </section>
+
+    <!-- Contact -->
+      <section id="contact" class="four">
+        <div class="container">
+
+          <header>
+            <h2>Contact</h2>
+          </header>
+
+          <p>Please feel free to contact me by email or LinkedIn, or call my mobile on 0498 266 596.</p>
+
+          <form method="post" action="#">
+            <div class="row">
+              <div class="6u 12u$(mobile)"><input type="text" name="name" placeholder="Name" /></div>
+              <div class="6u$ 12u$(mobile)"><input type="text" name="email" placeholder="Email" /></div>
+              <div class="12u$">
+                <textarea name="message" placeholder="Message"></textarea>
+              </div>
+              <div class="12u$">
+                <input type="submit" value="Send Message" />
+              </div>
+            </div>
+          </form>
+
+        </div>
+      </section>
+
+  </div>
