@@ -1,5 +1,5 @@
 # Site settings
-title: Your awesome title
+title: Angela Cox Portfolio
 email: your-email@domain.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 baseurl: ""
@@ -7,6 +7,14 @@ url: "http://yourdomain.com"
 twitter_username: jekyllrb
 github_username:  jekyll
 
+nav_title: Angela Cox
+nav_position: Senior Technical Writer
+
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+collections:
+  projects:
+    output: true
+    layout: project

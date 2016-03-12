@@ -2,24 +2,8 @@
 layout: default
 ---
 
-<!-- Main -->
-  <div id="main">
 
-    <!-- Intro -->
-      <section id="top" class="one dark cover">
-        <div class="container">
 
-          <header>
-            <h2 class="alt">Welcome to my site!
-            <p>Thanks for checking out my work.</p>
-          </header>
-
-          <footer>
-            <a href="#portfolio" class="button scrolly">Current blog post</a>
-          </footer>
-
-        </div>
-      </section>
 
     <!-- Portfolio -->
       <section id="portfolio" class="two">
@@ -129,5 +113,3 @@ layout: default
 
         </div>
       </section>
-
-  </div>

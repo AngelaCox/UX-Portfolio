@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: front
+header: "Welcome to my site! Thanks for checking out my work."
 ---
 
 asdf
