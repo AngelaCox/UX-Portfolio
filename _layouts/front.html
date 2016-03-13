@@ -1,0 +1,43 @@
+---
+layout: default
+---
+    <section id="top" class="one dark cover">
+      <div class="container">
+
+        <header>
+          <h2 class="alt" style="width:50%; margin-left: auto; margin-right: auto;">{{ page.header }}
+        </header>
+
+        <footer>
+          <a href="{{ site.posts.first.url }}" class="button scrolly">Latest blog post!</a>
+        </footer>
+
+      </div>
+    </section>
+
+    <section id="portfolio" class="two">
+      <div class="container">
+
+        <header>
+          <h2>Portfolio</h2>
+        </header>
+
+        {{ content }}
+
+        <div class="row">
+        {% for role in site.collections.roles.docs %}
+          <div class="4u 12u$(mobile)">
+            <article class="item">
+              <a href="{{ role.url }}" class="image fit"><img src="{{ role.thumbnail }}" alt="{{ role.company }}" />
+              <header>
+                <h3>{{ role.company }}</h3>
+                <p>{{ role.term }}</p>
+              </header>
+              </a>
+            </article>
+          </div>
+        {% endfor %}
+        </div>
+
+      </div>
+    </section>

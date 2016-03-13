@@ -1,0 +1,24 @@
+title: Angela Cox Portfolio
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+# Leave URL blank to listen on all addresses
+url: ""
+baseurl: ""
+
+# Social
+#twitter:
+#facebook:
+github: AngelaCox
+linkedin: angela-cox-27096540
+
+nav_title: Angela Cox
+nav_position: Senior Technical Writer
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+collections:
+  roles:
+    output: true
+    layout: role
