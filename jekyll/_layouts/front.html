@@ -15,10 +15,29 @@ layout: default
       </div>
     </section>
 
-    <section id="about" class="three">
+    <section id="portfolio" class="two">
       <div class="container">
-        <article class="post-content">
+
+        <header>
+          <h2>Portfolio</h2>
+        </header>
+
         {{ content }}
-        </article>
+
+        <div class="row">
+        {% for role in site.collections.roles.docs %}
+          <div class="4u 12u$(mobile)">
+            <article class="item">
+              <a href="{{ role.url }}" class="image fit"><img src="{{ role.thumbnail }}" alt="{{ role.company }}" />
+              <header>
+                <h3>{{ role.company }}</h3>
+                <p>{{ role.term }}</p>
+              </header>
+              </a>
+            </article>
+          </div>
+        {% endfor %}
+        </div>
+
       </div>
     </section>
