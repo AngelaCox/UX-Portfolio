@@ -6,6 +6,9 @@
     "start": "http-server . -o -p 9999"
   },
   "_aerobatic": {
+    "build": {
+      "engine": "jekyll"
+    },
     "clientConfigVar": "globalCustom",
     "router": [
       {
