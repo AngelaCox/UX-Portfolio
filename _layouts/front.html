@@ -9,7 +9,7 @@ layout: default
         </header>
 
         <footer>
-          <a href="{{ site.posts.first.url }}" class="button scrolly">Latest blog post...</a>
+          <a href="{{ site.url }}{{ site.posts.first.url }}" class="button scrolly">Latest blog post...</a>
         </footer>
 
       </div>
@@ -25,10 +25,10 @@ layout: default
         {{ content }}
 
         <div class="row">
-        {% for role in site.collections.roles.docs %}
+        {% for role in site.collections[0].docs %}
           <div class="4u 12u$(mobile)">
             <article class="item">
-              <a href="{{ role.url }}" class="image fit"><img src="{{ role.thumbnail }}" alt="{{ role.company }}" />
+              <a href="{{ site.url }}{{ role.url }}" class="image fit"><img src="{{ role.thumbnail }}" alt="{{ role.company }}" />
               <header>
                 <h3>{{ role.company }}</h3>
                 <p>{{ role.term }}</p>
