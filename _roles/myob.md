@@ -1,6 +1,6 @@
 ---
 layout: role
-company:  SIMTICS
+company:  MYOB
 position: Senior Technical Writer
 thumbnail: images/SIMTICS.jpg
 term: Contract
