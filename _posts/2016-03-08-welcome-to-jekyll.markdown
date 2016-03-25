@@ -3,11 +3,12 @@ layout: post
 title:  "Introduction part one"
 date:   2016-02-13 20:36:58
 categories: Not-quite-technical-writing Introduction About-me
+permalink: /whateveryouwant
 ---
 
 So against my better judgment, I've attempted to start a blog.
 
-Naturally, the instant I decided, I couldn't think of a single thing to write, so instead I decided to  write a little about myself as a way of dipping my toe in the... blog pool? Hmm. Either way, I'll move to technical writing content in a few posts.
+Naturally, the instant I decided, I couldn't think of a single technical writing related thing to write, so instead I decided to  write a little about myself as a way of dipping my toe in the... blog pool? Hmm. Either way, I'll move to technical writing content in a few posts.
 
 I'm a technical writer originally from New Zealand but have been living and working in Australia for nearly four years. I've been working as a technical writer for nearly 6 years now in a mix of contract, consultant and permanent roles.
 
