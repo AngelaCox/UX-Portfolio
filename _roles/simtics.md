@@ -12,6 +12,8 @@ Project: Medical Assistant Simulator
 
 Working within a team of technical writers, I wrote and produced detailed technical specifications for study text, interactive medical anatomies, film shoots and web-based simulations.
 
+!(http://angportfolio.aerobatic.io/images/avatar.png)
+
 This product is used by medical assistant trainees for interactive training. Some of the available learning materials are:
 
 * Medical simulations where the student watches, then positions medical instruments in 3D space

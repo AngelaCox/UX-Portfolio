@@ -12,11 +12,11 @@ github: AngelaCox
 linkedin: angela-cox-27096540
 
 nav_title: Angela Cox
-nav_position: Senior Technical Writer
+nav_position: Technical Writer
 
 # Build settings
 markdown: kramdown
-# permalink: pretty
+permalink: pretty
 
 collections:
   roles:
