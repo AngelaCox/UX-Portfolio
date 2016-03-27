@@ -2192,7 +2192,7 @@
 				background-color: #e8edec;
 			}
 
-			#role > section {
+			#role > section.role {
 			    text-align: left;
 			}
 
