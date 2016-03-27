@@ -25,3 +25,5 @@ collections:
   roles:
     output: true
     layout: role
+
+exclude: ["package.json"]
