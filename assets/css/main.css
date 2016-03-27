@@ -26,9 +26,9 @@
 		line-height: 1;
 	}
 
-	ol, ul {
+	/*ol, ul {
 		list-style: none;
-	}
+	}*/
 
 	blockquote, q {
 		quotes: none;
@@ -2171,8 +2171,7 @@
 
 			#main > section.three {
 				background-color: #ecf1f1;
-				list-style: inside;
-				list-style-type: decimal;
+
 			}
 
 			#main > section.four {
