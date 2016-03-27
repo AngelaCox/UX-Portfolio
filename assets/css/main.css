@@ -1780,6 +1780,20 @@
 			padding-left: 0.25em;
 		}
 
+		#role ul li a {
+			display: block;
+			padding: 0.5em 1.5em 0.5em 1.5em;
+			color: rgba(255, 255, 255, 0.5);
+			text-decoration: none;
+			list-style-type: inherit;
+			outline: 0;
+			border: 0;
+			-moz-transition: none;
+			-webkit-transition: none;
+			-ms-transition: none;
+			transition: none;
+		}
+
 /* Form */
 
 	form label {
