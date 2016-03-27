@@ -2192,6 +2192,10 @@
 				background-color: #e8edec;
 			}
 
+			#role > section {
+			    text-align: left;
+			}
+
 /* Wide */
 
 	@media screen and (min-width: 961px) and (max-width: 1880px) {
