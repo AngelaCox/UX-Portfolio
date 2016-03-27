@@ -14,12 +14,11 @@ Working within a team of technical writers, I wrote and produced detailed techni
 
 ![avatar picture]({{ site.url }}/images/avatar.png)![avatar picture]({{ site.url }}/images/avatar.png)!
 
-|:------------- |:-------------:| -----:|
-|![avatar picture]({{ site.url }}/images/avatar.png)|![avatar picture]({{ site.url }}/images/avatar.png)|![avatar picture]({{ site.url }}/images/avatar.png)|
 
-|:------------- |:--------------------------------------------------------:|
-|![avatar picture]({{ site.url }}/images/avatar.png)||
-|The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog||
+
+|:------------- |:-------------:| -----:|
+|![avatar picture]({{ site.url }}/images/avatar.png)|&nbsp;|The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog|
+
 
 This product is used by medical assistant trainees for interactive training. Some of the available learning materials are:
 
