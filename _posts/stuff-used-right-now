@@ -1,0 +1,9 @@
+
+
+
+
+How to link video
+{% youtube EJAOOPdw3h8 %}
+
+How to add an image
+![avatar picture]({{ site.url }}/images/avatar.png)

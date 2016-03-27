@@ -12,16 +12,9 @@ term_end: December 2010
 
 Working within a team of technical writers, I wrote and produced detailed technical specifications for study text, interactive medical anatomies, film shoots and web-based simulations.
 
-![avatar picture]({{ site.url }}/images/avatar.png)![avatar picture]({{ site.url }}/images/avatar.png)!
-
-
-
-|:------------- |:-------------:| -----:|
-|![avatar picture]({{ site.url }}/images/avatar.png)|&nbsp;|The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog The quick brown fox jumped over the lazy dog the quick brown fox jumped over the lazy dog|
-
+![3D rotational image]({{ site.url }}/images/paediatrics.png)
 
 This product is used by medical assistant trainees for interactive training. Some of the available learning materials are:
-
 * Medical simulations where the student watches, then positions medical instruments in 3D space
 * Labeled 3D images of organs, equipment and figures that can be rotated in 3D space
 * Videos of procedures being performed
@@ -29,3 +22,5 @@ This product is used by medical assistant trainees for interactive training. Som
 
 The end result is a sophisticated and intuitive training package that can be used as a main or supplementary resource.
 Contracted for deliverables in three months, all achieved on time and on budget.
+
+{% youtube 3DT_KTE7OtQ %}
