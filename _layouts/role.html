@@ -3,23 +3,23 @@ layout: default
 ---
 <section id="about" class="three">
   <div class="container">
+    
+    <header id="role" class="role">
+      <h2 class="alt" style="width:50%; margin-left: auto; margin-right: auto;">{{ page.company }}</h2>
+      <p class="meta">Position: {{ page.position }}</p>
+      <p class="meta">Term: {{ page.term }}</p>
+      {% if page.term_start != blank %}
+      <p class="meta">Start: {{ page.term_start }}</p>
+      <p class="meta">End: {{ page.term_end }}</p>
+      {% endif %}
+      <hr />
+    </header>
+
     <div class="role">
-
-      <header id="role" class="role">
-        <h2 class="alt" style="width:50%; margin-left: auto; margin-right: auto;">{{ page.company }}</h2>
-        <p class="meta">Position: {{ page.position }}</p>
-        <p class="meta">Term: {{ page.term }}</p>
-        {% if page.term_start != blank %}
-        <p class="meta">Start: {{ page.term_start }}</p>
-        <p class="meta">End: {{ page.term_end }}</p>
-        {% endif %}
-        <hr />
-      </header>
-      </section>
-
       <section id="role" class="role">
           {{ content }}
       </section>
-
     </div>
+
   </div>
+</section>
