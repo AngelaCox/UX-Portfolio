@@ -18,6 +18,15 @@
 		vertical-align: baseline;
 	}
 
+	ol, ul, li {
+		margin: 0;
+		padding-left: 2%;
+		border: 0;
+		font-size: 100%;
+		font: inherit;
+		vertical-align: baseline;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -2171,6 +2180,11 @@
 
 			#main > section.three {
 				background-color: #ecf1f1;
+			}
+
+			#main > section.role {
+				background-color: #ecf1f1;
+				text-align: left;
 
 			}
 
