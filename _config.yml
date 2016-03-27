@@ -14,6 +14,9 @@ linkedin: angela-cox-27096540
 nav_title: Angela Cox
 nav_position: Technical Writer
 
+# Analytics
+statuscake_rumid: 5156
+
 # Build settings
 markdown: kramdown
 permalink: pretty
