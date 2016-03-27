@@ -15,6 +15,7 @@
           <ul>
             <li><a href="{{ site.url }}" id="top-link" class="skel-layers-ignoreHref"><span class="icon fa-home">Home</span></a></li>
             {% assign url = page.url|remove:'index.html' %}
+            <!-- debug: URL: {{ url }}, site.url: {{ site.url }}-->
             {% if url == site.url %}
               <li><a href="#portfolio" id="portfolio-link" class="skel-layers-ignoreHref"><span class="icon fa-th">Portfolio</span></a></li>
             {% else %}
