@@ -23,9 +23,14 @@ cv: CVACoxMar2016.pdf
 markdown: kramdown
 permalink: pretty
 
+defaults:
+  - scope:
+      collections: projects
+    values:
+      layout: project
+
 collections:
   projects:
     output: true
-    layout: project
 
 exclude: ["package.json"]
