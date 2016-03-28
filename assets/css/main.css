@@ -67,6 +67,10 @@
 
 /* Containers */
 
+	.embed-responsive {
+		text-align: center;
+	}
+
 	.container {
 		margin-left: auto;
 		margin-right: auto;
