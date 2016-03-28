@@ -8,6 +8,8 @@ layout: default
       <header>
         <h2 class="alt" style="width:50%; margin-left: auto; margin-right: auto;">{{ page.title }}</h2>
         <p class="meta">{{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
+        <!-- post.tags {{ post.tags }} -->
+        <!-- post.tags.size {{ post.tags.size }} -->
         {% if post.tags.size > 0 %}
         <div class="row">
             <p>Tags</p>
