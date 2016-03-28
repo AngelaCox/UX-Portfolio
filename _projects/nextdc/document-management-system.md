@@ -3,7 +3,6 @@ company:  NEXTDC
 position: Senior Technical Writer
 thumbnail: images/NEXTDC.jpg
 project: Document Management System
-permalink: /projects/NEXTDC/Document-Management-System
 ---
 
 Project: analysis, spec and implementation
