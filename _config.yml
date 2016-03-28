@@ -28,6 +28,7 @@ defaults:
       collections: projects
     values:
       layout: project
+      permalink: /projects/:company/:project
 
 collections:
   projects:
