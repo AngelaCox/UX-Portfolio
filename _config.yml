@@ -1,5 +1,5 @@
 title: Angela Cox Portfolio
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Angela Cox Portfolio"
 
 # Leave URL blank to listen on all addresses
 url: "http://angportfolio.aerobatic.io"
@@ -32,5 +32,5 @@ defaults:
 collections:
   projects:
     output: true
-    
+
 exclude: ["package.json"]
