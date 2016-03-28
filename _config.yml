@@ -24,8 +24,8 @@ markdown: kramdown
 permalink: pretty
 
 collections:
-  roles:
+  projects:
     output: true
-    layout: role
+    layout: project
 
 exclude: ["package.json"]

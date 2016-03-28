@@ -1,5 +1,4 @@
 ---
-layout: role
 company:  NEXTDC
 position: Senior Technical Writer
 thumbnail: images/NEXTDC.jpg

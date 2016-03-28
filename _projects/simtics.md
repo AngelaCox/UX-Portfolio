@@ -1,5 +1,4 @@
 ---
-layout: role
 company:  SIMTICS
 position: Technical Writer
 thumbnail: images/SIMTICS.jpg

@@ -1,5 +1,4 @@
 ---
-layout: role
 company:  MYOB
 position: Senior Technical Writer
 thumbnail: images/MYOB.jpg

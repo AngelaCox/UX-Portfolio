@@ -1,5 +1,4 @@
 ---
-layout: role
 company:  Booktrack
 position: Creative Director and Technical Writer
 thumbnail: images/BOOKTRACK.jpg
