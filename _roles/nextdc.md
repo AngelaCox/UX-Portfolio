@@ -3,12 +3,10 @@ layout: role
 company:  NEXTDC
 position: Senior Technical Writer
 thumbnail: images/NEXTDC.jpg
-term: Permanent
-term_start: December 2013
-term_end: July 2015
+project: Document Management System
 ---
 
-Project:Document Management System; analysis, spec and implementation
+Project: analysis, spec and implementation
 
 Working with CTO Paul Gampe, I analysed and selected Alfresco as NEXTDC's document management solution. I was given three months to analyse, test and implement the solution across the company.
 

@@ -5,11 +5,9 @@ layout: default
   <div class="container">
 
     <header id="role" class="role">
-      <h2 class="alt" style="width:50%; margin-left: auto; margin-right: auto;">{{ page.project }}</h2>
+      <h2 class="alt" style="width:75%; margin-left: auto; margin-right: auto;">{{ page.project }}</h2>
       <h3 class="alt" style="width:50%; margin-left: auto; margin-right: auto;">{{ page.company }}</h3>
-      <p class="meta">Position: {{ page.position }}</p>
-      <p class="meta">Term: {{ page.term }} {% if page.term_start != blank %} || {{ page.term_start }} / {{ page.term_end }}</p>
-      {% endif %}
+      <p class="meta">{{ page.position }}</p>
       <hr />
     </header>
 
