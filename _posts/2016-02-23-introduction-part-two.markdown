@@ -2,6 +2,9 @@
 layout: post
 title:  "Introduction part two"
 date:   2016-02-23 20:36:58
+tags:
+  - Introduction
+  - Multi-Part
 # categories: Not-quite-technical-writing Introduction About-me
 ---
 
