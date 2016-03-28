@@ -15,5 +15,4 @@ Working with John Neill, Director of Engineering at Park Road Post Production (L
 Combining a musical score with an ambient background and specific sfx, my job as creative director was to edit and review the score, specify sfx and ambient background sound and work with a team of audio engineers and composers to bring the piece to life.
 Working to an exceptionally tight deadline, the team worked around the clock to deliver the Apple store app in time for the very successful launch in New York City. Creative direction, storyboarding, editing HTML and ePubs as well as technical writing for the product itself made this role an amazing mix of technical and creative skills.
 
-
 {% youtube EJAOOPdw3h8 %}
