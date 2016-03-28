@@ -1,35 +1,17 @@
 ---
 layout: default
 ---
-<section id="about" class="three">
-  <div class="container">
-  <style>
-    header.role {
-      /*width: 200px;
-      height: 200px;*/
-      display: block;
-      position: relative;
-    }
 
-    header.role::after {
-      content: '';
-      background: url("{{ site.url }}/{{ page.image }}");
-      opacity: 0.3;
-      top: 0;
-      left: 0;
-      bottom: 0;
-      right: 0;
-      position: absolute;
-      z-index: -1;
-    }
-  </style>
+<section id="top" class="one dark cover">
+  <div class="container">
     <header id="role" class="role">
       <h2 class="alt" style="width:75%; margin-left: auto; margin-right: auto;">{{ page.project }}</h2>
       <h3 class="alt" style="width:50%; margin-left: auto; margin-right: auto;">{{ page.company }}</h3>
       <p class="meta">{{ page.position }}</p>
       <hr />
     </header>
-
+</section>
+<section id="about" class="three">
     <div class="role">
       <section id="role" class="role">
           {{ content }}
