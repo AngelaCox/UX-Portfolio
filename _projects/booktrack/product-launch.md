@@ -2,6 +2,7 @@
 company:  Booktrack
 position: Creative Director and Technical Writer
 thumbnail: images/BOOKTRACK.jpg
+image: images/BOOKTRACK.jpg
 project: Product Launch - The Power of Six
 ---
 
