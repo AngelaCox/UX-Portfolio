@@ -2096,6 +2096,11 @@
 				color: #e27689;
 			}
 
+			#nav li a span.sub-nav {
+				margin-top: -10%;
+				font-size: medium;
+			}
+
 /* Footer */
 
 	#footer {
