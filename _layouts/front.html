@@ -28,10 +28,9 @@ layout: default
         {% for role in site.collections[0].docs %}
           <div class="4u 12u$(mobile)">
             <article class="item">
-              <a href="{{ site.url }}{{ role.url }}" class="image fit"><img src="{{ role.thumbnail }}" alt="{{ role.company }}" />
+              <a href="{{ site.url }}{{ role.url }}" class="image fit"><img src="{{ role.thumbnail }}" alt="{{ role.project }}" />
               <header>
-                <h3>{{ role.company }}</h3>
-                <p>{{ role.term }}</p>
+                <h3>{{ role.project }}</h3>
               </header>
               </a>
             </article>
