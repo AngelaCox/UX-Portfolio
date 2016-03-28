@@ -28,10 +28,10 @@ defaults:
       collections: projects
     values:
       layout: project
-      permalink: /projects/:company/:project
 
 collections:
   projects:
     output: true
+    permalink: /projects/:company/:project
 
 exclude: ["package.json"]
