@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Acceptance testing outside software"
-date:   2016-02-29 20:36:58
+date:   2016-03-05 20:36:58
 # categories: Not-quite-technical-writing Introduction About-me
 ---
 
