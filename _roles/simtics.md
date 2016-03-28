@@ -3,12 +3,8 @@ layout: role
 company:  SIMTICS
 position: Technical Writer
 thumbnail: images/SIMTICS.jpg
-term: Contract
-term_start: July 2010
-term_end: December 2010
+project: Medical Assistant Simulator
 ---
-
-## Project: Medical Assistant Simulator
 
 Working within a team of technical writers, I wrote and produced detailed technical specifications for study text, interactive medical anatomies, film shoots and web-based simulations.
 
