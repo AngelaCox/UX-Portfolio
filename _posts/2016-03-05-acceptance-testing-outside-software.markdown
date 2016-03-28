@@ -2,7 +2,8 @@
 layout: post
 title:  "Acceptance testing outside software"
 date:   2016-03-05 20:36:58
-# categories: Not-quite-technical-writing Introduction About-me
+tags:
+  - non-software
 ---
 
 I've decided to write a series of posts on technical writing topics outside of software. I think there are many valuable skills from other industries that software technical writers can apply to their careers. How many of us have bothered to really think about how our procedures fit into the wider business? What information security means to us as technical writers?

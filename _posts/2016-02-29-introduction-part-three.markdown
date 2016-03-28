@@ -2,7 +2,9 @@
 layout: post
 title:  "Introduction part three"
 date:   2016-02-29 20:36:58
-# categories: Not-quite-technical-writing Introduction About-me
+tags:
+  - Introduction
+  - Multi-Part
 ---
 
 I landed a role pretty quickly in WA- in part due to a very experienced woman working out that I understood and could implement everything she needed: I simply didn't know the correct lingo. This is a surprisingly important aspect of technical writing (and any role really) and getting contracts- you really DO need to know what things are called. If someone asks you about white space or Information Architecture and you don't know, the questioner will tell you but you probably won't get that job.
