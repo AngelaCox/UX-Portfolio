@@ -28,6 +28,7 @@ I personally think the planning stage is also the best time to initially engage 
 
 ## Step two: write the questions
 This (as with anything) is much harder than it sounds. Here are some brief recommendations for question writing:
+
 * If you want your customer responses to prove they prefer one particular option to another, multichoice questions are your friend. Be sure to remember this can seriously backfire on you if they don't answer how you want them to.
 * If you want to draw generalised inferences, try a comment box.
 * Use a range of responses, even allow for 'I don't know' answers.
@@ -35,6 +36,7 @@ This (as with anything) is much harder than it sounds. Here are some brief recom
 
 ## Step three: participation rewards
 Rewarding participants increases engagement. However, here are a few suggestions on how to frame such a reward:
+
 * A reward for one entrant simply for participation does not increase engagement.  
 * A 'game of skill' such as answering a specific question, will increase engagement.
 * Do not use a game of chance. There are specific laws by country and state regarding lotteries and gambling, in Australia there is specific legislation for running promotions ( I suggest this website if you are interested https://www.tpal.com.au/competition-permits-trade-promotion-permits/).
@@ -45,6 +47,7 @@ At this stage, you should have your entire project including terms and condition
 At this point, your survey should now be ready to deliver in whatever format you've chosen. Remember, you can test with a beta group if you like, before sending it to your entire mailing list.
 
 A few final points to remember:
+
 * Make sure you've contacted every internal person that needs to know, about your survey.
 * Make sure this information **has not already been collected**. You should never replicate a survey that has been done already, unless a suitable period of time has elapsed.  
 * If you are telling customers their data is secure, **do your research**. Make sure it IS secure before promising. Customer insights are not worth breaking their trust.
