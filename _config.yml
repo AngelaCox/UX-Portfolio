@@ -17,7 +17,7 @@ nav_position: Technical Writer
 cv: CVACoxMar2016.pdf
 
 # Analytics
-
+google_analytics: UA-75745958-1
 
 # Build settings
 markdown: kramdown
