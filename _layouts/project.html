@@ -2,18 +2,20 @@
 layout: default
 ---
 
-<section id="top" class="one dark cover">
-  <div class="container">
-    <header id="role" class="role">
-      <h2 class="alt" style="width:75%; margin-left: auto; margin-right: auto;">{{ page.project }}</h2>
-      <h3 class="alt" style="width:50%; margin-left: auto; margin-right: auto;">{{ page.company }}</h3>
-      <p class="meta">{{ page.position }}</p>
-    </header>
-</section>
-<section id="about" class="three">
-    <div class="role" style="font-size: medium; text-align: left;">
-          {{ content }}
-    </div>
 
-  </div>
-</section>
+<div class="container">
+  <section id="top" class="one dark cover">
+      <header id="role" class="role">
+        <h2 class="alt" style="width:75%; margin-left: auto; margin-right: auto;">{{ page.project }}</h2>
+        <h3 class="alt" style="width:50%; margin-left: auto; margin-right: auto;">{{ page.company }}</h3>
+        <p class="meta">{{ page.position }}</p>
+      </header>
+  </section>
+  <section id="about" class="three">
+    <div class="post">
+      <div class="role" style="font-size: medium; text-align: left;">
+            {{ content }}
+      </div>
+    </div>
+  </section>
+</div>
