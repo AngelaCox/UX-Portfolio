@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Information Analysis: My own site"
+title:  "Information analysis: my own site"
 date:   2016-03-05 20:36:58
 tags:
   - tools
