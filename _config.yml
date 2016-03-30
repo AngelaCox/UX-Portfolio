@@ -33,4 +33,4 @@ collections:
   projects:
     output: true
 
-exclude: ["package.json"]
+exclude: ["README.md", "package.json"]

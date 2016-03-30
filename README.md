@@ -1,6 +1,8 @@
 
 
+Heads in posts
 
+Use H2 and onwards for headings. H1 is special and looks crap
 
 How to link video
 {% youtube EJAOOPdw3h8 %}
