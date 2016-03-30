@@ -5,6 +5,9 @@ date:   2016-03-05 20:36:58
 tags:
   - non-software
 ---
+  - tools
+  - testing
+  - acceptance testing
 
 I've decided to write a series of posts on technical writing topics outside of software. I think there are many valuable skills from other industries that software technical writers can apply to their careers. How many of us have bothered to really think about how our procedures fit into the wider business? What information security means to us as technical writers?
 
