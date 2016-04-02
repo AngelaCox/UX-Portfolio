@@ -41,6 +41,6 @@ The four principles to cut back the content are:
 ## User survey defining if content is used
 The content that has been identified as "not being used" will be reviewed.
 The internal audience will help define the reason for why it is not being used- out of date, lacks relevance, no longer required etc.
-After that the content will be edited to be more relevant, streamlined and usable.
 
-Estimates of the post review content anticipate content reduction of at least one third.
+After this process is complete the content will be more relevant, streamlined and usable. Estimates of the post-review content anticipate a content reduction of at least one third. Useability will be increased and customer satisfaction should increase.
+The project is currently tracking well with no major issues.
