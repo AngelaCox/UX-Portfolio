@@ -9,6 +9,7 @@ Working with the project, QA and business analyst teams, I scoped and analysed r
 
 The existing help centres are created in Framemaker, compiled via WebWorks and copied to servers that host the information. This is an expensive, reasonably high-risk and insecure method. It's also incredibly slow- to copy one help centre from the output folder to the server normally takes around an hour. Changes need to be bundled together, as it is inefficient to spend 3 hours copying for one change. So often issues and bugs remain live after they are identified as they cannot be fixed in real time.
 
+# Audit process
 The first step is user surveys; internal and external. The survey scope was based on the following three points;
 
 * How usable and findable do you find information?
