@@ -7,9 +7,9 @@ project: Documentation audit / information architecture restructure
 
 Working with the project, QA and business analyst teams, I scoped and analysed requirements, and performed content audits ready to implement an information architecture redesign and update the documentation tools (This is my current project).
 
-The existing help centres are created in Framemaker, compiled via WebWorks and copied to servers that host the information. This is an expensive, reasonably high-risk and insecure method. It's also incredibly slow- to copy one help centre from the output folder to the server normally takes around an hour. Changes need to be bundled together, as it is inefficient to spend 3 hours copying for one change. So often issues and bugs remain live after they are identified as they cannot be fixed in real time.
+The existing help centres are created in Framemaker, compiled via WebWorks and copied to servers that host the information. This is an expensive, reasonably high-risk and insecure method. It's also incredibly slow- to copy one help centre from the output folder to the server normally takes around an hour. Changes need to be bundled together, as it is inefficient to spend three hours copying for one change. So often issues and bugs remain live after they are identified as they cannot be fixed in real time.
 
-# Audit process
+## Audit process
 The first step is user surveys; internal and external. The survey scope was based on the following three points;
 
 * How usable and findable do you find information?
@@ -28,20 +28,21 @@ A sample of quantitative audit results:
 A sample of qualitative audit results:
 
 * There are hundreds of external links, which were once automatically redirected urls. I'm guessing over the years technical writers in a hurry have replaced those with embedded urls and as the external links have been changed, the links are now broken. Hundreds and hundreds of broken links.
-* At one point, someone copied a 2014 helpcentre, called it 2015 and has not modified or updated any of the links. This is a particular challenge, as the incorrect links are not broken or incorrect, so a link crawler tool cannot be identified. They are pointing to legitimate 2013-2014 pages, which is incorrect for the 2015 tax product.
+* At one point, someone copied a 2014 helpcentre, called it 2015 and has not modified or updated any of the links. This is a particular challenge, as the incorrect links are not broken or incorrect, so a link crawler tool cannot be identified. They are pointing to legitimate 2013-2014 pages, which is incorrect for the 2015 product.
 
 The content audit is currently taking place, two of the strategies employed for the audit are below.
 
 ## Minimalism
 The four principles to cut back the content are:
-1 Choose an action-oriented approach for content
-2 Focus on the users real goals (what does the user want to do?)
-3 Support error recognition and recovery (troubleshooting)
-4 Accessibility: support information access
+
+* Choose an action-oriented approach for content
+* Focus on the users real goals (what does the user want to do?)
+* Support error recognition and recovery (troubleshooting)
+* Accessibility: support information access
 
 ## User survey defining if content is used
 The content that has been identified as "not being used" will be reviewed.
 The internal audience will help define the reason for why it is not being used- out of date, lacks relevance, no longer required etc.
 
-After this process is complete the content will be more relevant, streamlined and usable. Estimates of the post-review content anticipate a content reduction of at least one third. Useability will be increased and customer satisfaction should increase.
+After this process is complete the content will be more relevant, streamlined and usable. Estimates of the post-review content anticipate a content reduction of at least one third. Usability will be increased and customer satisfaction should increase.
 The project is currently tracking well with no major issues.
