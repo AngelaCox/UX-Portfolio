@@ -9,7 +9,7 @@ Working within a team of technical writers, I wrote and produced detailed techni
 
 ![3D rotational image]({{ site.url }}/images/paediatrics.png)
 
-This product is used by medical assistant trainees for interactive training. Some of the available learning materials are:
+This product is used by nurse and medical assistant trainees for interactive training. Some of the available learning materials are:
 
 * Medical simulations where the student watches, then positions medical instruments in 3D space.
 * Labeled 3D images of figures, organs, equipment and figures that can be rotated in 3D space.
@@ -22,5 +22,3 @@ The end result is a sophisticated and intuitive training package that can be use
 Contracted for deliverables in three months, all achieved on time and on budget.
 
 {% youtube 3DT_KTE7OtQ %}
-
-Find a picture of some text, as an example.
