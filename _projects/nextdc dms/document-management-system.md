@@ -5,6 +5,8 @@ thumbnail: images/NEXTDC.jpg
 project: Document Management System
 ---
 
+Project: analysis, spec and implementation
+
 Working with CTO Paul Gampe, I analysed and selected Alfresco as NEXTDC's document management solution. I was given three months to analyse, test and implement the solution across the company.
 
 Given the time constraints, Federal Enterprise Architecture was selected as a workable framework to implement across the business.
@@ -15,18 +17,3 @@ I managed my IT resourcing for the testing and migration. Permission levels were
 
 The only solution? Manual taxonomy creation. I manually created the entire structure within Alfresco, folder by folder...
 After a dedicated three months, the project was completed in the timeframe, well under budget.
-
-Images? Link to alfresco opensource tools page?
-
-GitHub link- archive of ONEDC project
-https://github.com/ONEDC/obix/commits/master
-https://github.com/ONEDC/obix/tree/master/docs
-https://github.com/ONEDC
-
-Finished product:
-http://www.onedc.com/
-
-Archive
-https://web.archive.org/web/20141218051742/http://onedc.com/
-https://web.archive.org/web/20150219210743/http://onedc.com/community/
-https://www.youtube.com/watch?v=jIXagxQ-ZVY&index=2&list=PLjKwUXpQYq7jgIBaGARmpJVwReBRQNkZk
