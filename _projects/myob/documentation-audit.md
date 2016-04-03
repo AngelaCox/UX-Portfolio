@@ -28,7 +28,7 @@ A sample of quantitative audit results:
 A sample of qualitative audit results:
 
 * There are hundreds of external links, which were once automatically redirected urls. I'm guessing over the years technical writers in a hurry have replaced those with embedded urls and as the external links have been changed, the links are now broken. Hundreds and hundreds of broken links.
-* At one point, someone copied a 2014 helpcentre, called it 2015 and has not modified or updated any of the links. This is a particular challenge, as the incorrect links are not broken or incorrect, so a link crawler tool cannot be identified. They are pointing to legitimate 2013-2014 pages, which is incorrect for the 2015 product.
+* At one point, someone copied a 2014 helpcentre, called it 2015 and has not modified or updated any of the links. This is a particular challenge, as the incorrect links are not broken or incorrect, so a link crawler tool cannot identify these issues. They are pointing to legitimate 2013-2014 pages, which is incorrect for the 2015 product.
 
 The content audit is currently taking place, two of the strategies employed for the audit are below.
 
