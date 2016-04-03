@@ -22,7 +22,7 @@ It was so hipster. I was seduced by how "unique" it would be, an interactive, cl
 ![avatar picture]({{ site.url }}/images/twineoutput.png)
 
 See? That's the final output in its most basic form. Yes, you can fix it up and make it pretty, but sometimes it's better to admit that you need a better solution rather than continue flogging that dead horse. I concluded that nobody who came to check out the site would really appreciate the amount of work that went in to get a banal outcome.   
-I decided to scrap this idea, and set up a simple Jekyll website, using BitBucket to manage and writing content in Atom. Ta da!
+I decided to scrap this idea, and set up a simple Jekyll website, using BitBucket and Aerobatic to manage hosting and writing content in Atom. Ta da!
 
 ## Layout and architecture plan
 This is not a huge site. I deliberately kept it clean and simple: easy to navigate. For example, if I'm creating high volume content such as help text, I prefer to have a side bar with a nested tree for navigation, or depending on how good the engine is, a search bar at the top. People can see the main headings for navigation and can seek further information as they require or desire.
