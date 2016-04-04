@@ -39,7 +39,7 @@ Rewarding participants increases engagement. However, here are a few suggestions
 
 * A reward for one entrant simply for participation does not increase engagement.  
 * A 'game of skill' such as answering a specific question, will increase engagement.
-* Do not use a game of chance. There are specific laws by country and state regarding lotteries and gambling, in Australia there is specific legislation for running promotions ( I suggest this website if you are interested https://www.tpal.com.au/competition-permits-trade-promotion-permits/).
+* Do not use a game of chance. There are specific laws by country and state regarding lotteries and gambling, in Australia there is specific legislation for running promotions ( I suggest this website if you are interested [https://www.tpal.com.au/competition-permits-trade-promotion-permits/](https://www.tpal.com.au/competition-permits-trade-promotion-permits/)).
 
 ## Step four: check in with relevant stakeholders
 At this stage, you should have your entire project including terms and conditions checked by your legal department. You can also pass it by any subject matter experts that may have a vested interest, support or technical staff, etc. The more people you run this past, the better outcomes you will get. Don't forget, internal consumers are still consumers.
