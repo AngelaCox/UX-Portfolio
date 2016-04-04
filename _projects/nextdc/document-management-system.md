@@ -5,16 +5,18 @@ thumbnail: images/NEXTDC.jpg
 project: Document Management System
 ---
 
-Working with CTO Paul Gampe, I analysed and selected Alfresco as NEXTDC's document management solution. I was given three months to analyse, test and implement the solution across the company.
+Working with CTO Paul Gampe, the decision was made that documentation across the company needed to be supported and controlled to retain ISO 9001 certification and gain ISO 27001. I analysed NEXTDC's existing documentation solution and selected Alfresco as NEXTDC's document management solution. 
+I was given three months to analyse, test and implement the solution across the company to enable NEXTDC to gain their 27001 Information Security certification.
 
-Given the time constraints, Federal Enterprise Architecture was selected as a workable framework to implement across the business.
+Given the time constraints, Federal Enterprise Architecture was selected as a workable framework to implement across the business with minimal impact.
 
-I then gathered requirements from each team and department, analysed them and performed an audit on existing documentation.
+I then gathered documentation, security, space and other requirements from each team and department, analysed them and performed an audit on existing documentation.
 
-I managed my IT resourcing for the testing and migration. Permission levels were assigned and SSO implemented. Due to an unforseen and severe resource constraint, no automatic migration was possible from one system to another.
+I managed my IT resourcing for the testing and migration. Permission levels were assigned and SSO implemented.
 
-The only solution? Manual taxonomy creation. I manually created the entire structure within Alfresco, folder by folder...
-After a dedicated three months, the project was completed in the timeframe, well under budget.
+I created adn performed implemented user-driven training for Alfresco across the company, for both regular, admin and superadmin users.
+
+NEXTDC received the ISO 27001 certification which was needed to support their customer requirements.
 
 Images? Link to alfresco opensource tools page?
 
