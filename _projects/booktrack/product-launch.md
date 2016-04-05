@@ -10,6 +10,10 @@ Working with John Neill, Director of Engineering at Park Road Post Production (L
 
 ![3D rotational image]({{ site.url }}/images/BT5.png)
 
-Working to an exceptionally tight deadline, the team worked around the clock to deliver the Apple store app in time for the very successful launch in New York City. Creative direction, storyboarding, editing HTML and ePubs as well as technical writing for the product itself made this role an amazing mix of technical and creative skills.
+The image above shows a small section of marked up text from a Booktrack version of A Christmas Carol by Charles Dickens.   
 
-{% youtube EJAOOPdw3h8 %}
+Working to an exceptionally tight deadline, the team worked around the clock to deliver the Apple store app in time for the very successful launch in New York City. Creative direction, storyboarding, editing HTML and ePubs as well as technical writing for the product itself made this role an amazing mix of technical and creative skills.
+Below is an excerpt of the finished product for the Power of 6.
+
+{% youtube lgjc20YHYPA %}
+
