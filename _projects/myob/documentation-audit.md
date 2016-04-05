@@ -5,14 +5,25 @@ thumbnail: images/MYOB.jpg
 project: Documentation audit / information architecture restructure
 ---
 
-Working with the project, QA and business analyst teams, I scoped and analysed requirements, and performed content audits ready to implement an information architecture redesign and update the documentation tools (This is my current project).
+Working with the project, QA and business analyst teams, I scoped and analysed requirements, and performed content audits ready to implement
+an information architecture redesign and update the documentation tools. This project is still in flight, so I have documented the strategy I 
+planned instead of providing samples. 
 
-The existing help centres are created in Framemaker, compiled via WebWorks and copied to servers that host the information. This is an expensive, reasonably high-risk and insecure method. It's also incredibly slow- to copy one help centre from the output folder to the server normally takes around an hour. Changes need to be bundled together, as it is inefficient to spend three hours copying for one change. So often issues and bugs remain live after they are identified as they cannot be fixed in real time.
+## Current Problems
+### Issue One
+The existing help centres are created in Framemaker, compiled via WebWorks and copied to servers that host the information. This is an 
+expensive and insecure method. It's also incredibly slow- to copy a single help centre across normally takes around an hour. 
+Changes need to be bundled together as it is inefficient to spend three hours copying for one change (3x help centres). 
+Often issues and bugs remain live in the content long after they are identified, waiting for the next content update.
+
+### Issue Two
+The desktop product is very old and the help content is enormous. People want it to be more streamlined and usable but nobody knows where 
+to start.
 
 ## Audit process
 The first step is user surveys; internal and external. The survey scope was based on the following three points;
 
-* How usable and findable do you find information?
+* How easily can you find and use information?
 * Which information are you accessing regularly, and why?
 * If you could change one thing, what would it be and why?
 
