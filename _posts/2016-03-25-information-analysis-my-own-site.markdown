@@ -34,6 +34,8 @@ It's almost too basic. The layout was a single-page bootstrap theme, to get me o
 
 When you sort posts by tag, ugh. I think I'll make more stylistic updates going forward. The posts sorted by tag have generated a mysterious numeral next to each one. I eventually worked out this was the number of posts for each tag but I'm not ashamed to admit that took me a second. I think the blog section isn't very intuitive, so I'll put some thought into improvements.
 
-And lastly when you click an anchor (e.g. the full tag list under the Tag Archive heading) it drops you to the location, however the heading you clicked is NOT the middle of the page, it's crammed up the top. This is not intuitive and leaves you searching. When you compare that to the nice slide animation on the front page (when clicking from one heading to another in the sidebar), it becomes very irritating.
+When you click an anchor (e.g. the full tag list under the Tag Archive heading) it drops you to the location, however the heading you clicked is NOT the middle of the page, it's crammed up the top. This is not intuitive and leaves you searching. When you compare that to the nice slide animation on the front page (when clicking from one heading to another in the sidebar), it becomes very irritating.
+
+Lastly, at the top of the side bar, my name appears. This should be a link- I keep clicking it myself, trying to get back to home and it doesn't go anywhere. It's actually **really** annoying. 
 
 That's probably plenty of criticism to work on! I'm off to go cry myself to sleep, then come up with a plan to fix it. And one of these days, I'm going to start a new Twine project!
