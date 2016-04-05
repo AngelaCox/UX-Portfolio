@@ -10,9 +10,10 @@ tags:
   - navigation
 ---
 
-I think the best way to learn from your mistakes is to really critique your own work and then others can learn from them too! In this post, I'm going to critique some of the design decisions I made while setting up this site.
+I think the best way to learn from your mistakes is to thoroughly review your own work and then others can learn from them too! In this post, I'm going to critique some of the design fails I worked through while setting up this site (or discovered in testing).
 
 ## Plan to fail
+
 ![avatar picture]({{ site.url }}/images/twine.png)
 
 Full disclosure? I scrapped my original portfolio design two weeks in. I had originally intended to create an interactive portfolio, using the non-linear story tool Twine. Seriously if you haven't already, [check this out](https://twinery.org/).
@@ -29,13 +30,15 @@ This is not a huge site. I deliberately kept it clean and simple: easy to naviga
 
 I did not want the user experience for my portfolio to involve 'seeking' hidden or nested information. The 'seeking' has already taken place, in a person wanting to see the portfolio in the first place!
 
-## Layout critique
-It's almost too basic. The layout was a single-page bootstrap theme, to get me off the ground (credits are on  the [copyright]({{site.url}}/copyright) page). I've added a blog and created content to sit behind images in the portfolio section. I do think this is an improvement as I felt it was too much information for a single page, without scroll-scroll-scroll. The blog... well. In the LH menu; the posts can be sorted by date, or sorted by tag. Sorting by date is okay, when you click into it, you can see they are sorted by year. You can't see the actual date without clicking into a specific post. A minor thing.
+## Critique
+It's almost *too* basic. The layout was a single-page bootstrap theme, to get me off the ground (credits are on  the [copyright]({{site.url}}/copyright) page). I've added a blog and created content to sit behind images in the portfolio section. I do think this is an improvement as I felt it was too much information for a single page, without scroll-scroll-scroll. The blog... well. In the LH menu; the posts can be sorted by date, or sorted by tag. Sorting by date is okay, when you click into it, you can see they are sorted by year. You can't see the actual date without clicking into a specific post. A minor thing.
 
 When you sort posts by tag, ugh. I think I'll make more stylistic updates going forward. The posts sorted by tag have generated a mysterious numeral next to each one. I eventually worked out this was the number of posts for each tag but I'm not ashamed to admit that took me a second. I think the blog section isn't very intuitive, so I'll put some thought into improvements.
 
 When you click an anchor (e.g. the full tag list under the Tag Archive heading) it drops you to the location, however the heading you clicked is NOT the middle of the page, it's crammed up the top. This is not intuitive and leaves you searching. When you compare that to the nice slide animation on the front page (when clicking from one heading to another in the sidebar), it becomes very irritating.
 
 Lastly, at the top of the side bar, my name appears. This should be a link- I keep clicking it myself, trying to get back to home and it doesn't go anywhere. It's actually **really** annoying. 
+
+I've also discovered that clicking a link to an external site does not open a new tab as I thought, but takes you away within your current tab. I'll definitely be fixing that, it's no help to the reader if they want to check out one of the websites I've linked and they get pulled away from this one. 
 
 That's probably plenty of criticism to work on! I'm off to go cry myself to sleep, then come up with a plan to fix it. And one of these days, I'm going to start a new Twine project!
