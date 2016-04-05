@@ -10,6 +10,7 @@ an information architecture redesign and update the documentation tools. This pr
 planned instead of providing samples. 
 
 ## Current Problems
+
 ### Issue One
 The existing help centres are created in Framemaker, compiled via WebWorks and copied to servers that host the information. This is an 
 expensive and insecure method. It's also incredibly slow- to copy a single help centre across normally takes around an hour. 
