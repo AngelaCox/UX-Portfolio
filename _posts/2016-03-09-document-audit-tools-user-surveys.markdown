@@ -8,14 +8,19 @@ tags:
   - user experience
 ---
 
-One of the better user experience tools in the technical writer arsenal is the user survey. I say that with my hand on my heart, even though most users actually hate them. I know I do!
+One of the better user experience tools in the technical writer arsenal is the user survey. I say that with my hand on my heart, even though most users actually hate them. I know I do! Generally speaking though, you can learn 
+some valuable, user-specific data points that don't come from analytics. It's the difference between qualitative and quantitative data: quantitative data is facts, figures and metrics. Qualitative data is more prescriptive, 
+more rich but ultimately, harder to prove or use in a technical fashion. A user survey is rich, single user information- if this were a scientific experiment, it would be an individual case study rather than a double-blind 
+experiment. However the value from a user survey comes from having multiple data points to prove your points... in other words, multiple respondents. I'm not going to get into NPS (net promoter score) here because this is 
+big enough as is. As such, I'll keep as much theory out as possible and try to stick to practical steps!
 
-Generally speaking though, you can learn some valuable, user-specific data points that don't come from analytics. It's the difference between qualitative and quantitative data: quantitative data is around facts, figures and metrics. Qualitative data is more prescriptive, more rich but ultimately, harder to prove or use in a technical fashion. A user survey is rich, single user information- if this were a scientific experiment, it would be an individual case study rather than a double-blind experiment. However the value from a user survey comes from having multiple data points... in other words, multiple respondents. I'm not going to get into NPS (net promoter score) here because this is big enough as is. It's a big topic to try and cover so I'll keep as much theory out as possible and try to stick to practical steps!
-
-Side note: It's probably in your best interest at this point to get management approval *at least* in principle before you begin, unless you are putting together a proof of concept. Its a lot of work to put together only to be told "you should have mentioned this earlier, Jasmyn in marketing just got HER customer survey approved last week so you can't run yours".
+Side note: If you're planning a survey, it's in your best interest to get management approval *at least* in principle before you begin, unless you are doing a proof of concept. Its a lot of work to put together only to be told
+"you should have mentioned this earlier, Jasmyn in marketing just got HER customer survey approved last week and we can't do two".
 
 ## Step one: create a survey brief
-Every good measure needs parameters. The hardest thing in qualitative research is working out where to stop. This is just as true for science, as it is for good UX! So firstly, establish who your audience is for the survey. Which particular group of customers (or all of them?!) and why.
+Every good measure needs parameters. The hardest thing in qualitative research is working out where to stop. This is just as true for science, as it is for good UX! So firstly, establish who your audience is for the survey. 
+Which particular group of customers (or all of them?!) and why.
+Now BEFORE you move on, go and check with everyone you can think of that this information doesn't already exist. Don't waste your precious time and your workplaces precious money getting answers you already have!
 
 Create an objective. This could be a hypothesis, a particular issue you want to solve, or a specific data set you want to acquire.
 Work out how many responses you want or need. This is important, as you need to know how many responses will "prove" your answers, or even just how many of your customers are reading your emails.
@@ -39,14 +44,12 @@ Rewarding participants increases engagement. However, here are a few suggestions
 
 * A reward for one entrant simply for participation does not increase engagement.  
 * A 'game of skill' such as answering a specific question, will increase engagement.
-* Do not use a game of chance. There are specific laws by country and state regarding lotteries and gambling, in Australia there is specific legislation for running promotions ( I suggest this website if you are interested [https://www.tpal.com.au/competition-permits-trade-promotion-permits/](https://www.tpal.com.au/competition-permits-trade-promotion-permits/)).
+* Do not use a game of chance. There are specific laws by country and state regarding lotteries and gambling, in Australia there is specific legislation for running promotions. I suggest checking out the [Trade Promotions and Lotteries](https://www.tpal.com.au/competition-permits-trade-promotion-permits/) website if you are interested.
 
 ## Step four: check in with relevant stakeholders
 At this stage, you should have your entire project including terms and conditions checked by your legal department. You can also pass it by any subject matter experts that may have a vested interest, support or technical staff, etc. The more people you run this past, the better outcomes you will get. Don't forget, internal consumers are still consumers.
 
-At this point, your survey should now be ready to deliver in whatever format you've chosen. Remember, you can test with a beta group if you like, before sending it to your entire mailing list.
-
-A few final points to remember:
+At this point, your survey should now be ready to deliver in whatever format you've chosen. Remember, you can test with a beta group if you like, before sending it to your entire mailing list. A few final points to remember:
 
 * Make sure you've contacted every internal person that needs to know, about your survey.
 * Make sure this information **has not already been collected**. You should never replicate a survey that has been done already, unless a suitable period of time has elapsed.  
