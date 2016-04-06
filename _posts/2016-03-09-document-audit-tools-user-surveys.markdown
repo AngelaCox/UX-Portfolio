@@ -18,9 +18,10 @@ Side note: If you're planning a survey, it's in your best interest to get manage
 "you should have mentioned this earlier, Jasmyn in marketing just got HER customer survey approved last week and we can't do two".
 
 ## Step one: create a survey brief
-Every good measure needs parameters. The hardest thing in qualitative research is working out where to stop. This is just as true for science, as it is for good UX! So firstly, establish who your audience is for the survey. 
+Every good measure needs parameters and as such, the hardest thing in qualitative research is working out where to stop. This is just as true for science, as it is for good UX! So firstly, establish who your audience is for the survey. 
 Which particular group of customers (or all of them?!) and why.
-Now BEFORE you move on, go and check with everyone you can think of that this information doesn't already exist. Don't waste your precious time and your workplaces precious money getting answers you already have!
+
+Now BEFORE you move on; go and check that this information doesn't already exist, nestled in some other department. Don't waste your precious time and your workplaces precious money getting answers you already have!
 
 Create an objective. This could be a hypothesis, a particular issue you want to solve, or a specific data set you want to acquire.
 Work out how many responses you want or need. This is important, as you need to know how many responses will "prove" your answers, or even just how many of your customers are reading your emails.
