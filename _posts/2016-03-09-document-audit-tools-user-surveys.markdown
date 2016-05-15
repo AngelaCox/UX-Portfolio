@@ -1,27 +1,34 @@
 ---
 layout: post
 title:  "Document audit tools: user surveys"
-date:   2016-03-05 20:36:58
+date:   2016-05-05 20:36:58
 tags:
   - tools
   - user surveys
   - user experience
+  - content strategy
 ---
 
-One of the better user experience tools in the technical writer arsenal is the user survey. I say that with my hand on my heart, even though most users actually hate them. I know I do! Generally speaking though, you can learn 
-some valuable, user-specific data points that don't come from analytics. It's the difference between qualitative and quantitative data: quantitative data is facts, figures and metrics. Qualitative data is more prescriptive, 
-more rich but ultimately, harder to prove or use in a technical fashion. A user survey is rich, single user information- if this were a scientific experiment, it would be an individual case study rather than a double-blind 
-experiment. However the value from a user survey comes from having multiple data points to prove your points... in other words, multiple respondents. I'm not going to get into NPS (net promoter score) here because this is 
-big enough as is. As such, I'll keep as much theory out as possible and try to stick to practical steps!
+Firstly, a big shout out to Katie Osborne, UX design lead at MYOB for resources and tips!
 
-Side note: If you're planning a survey, it's in your best interest to get management approval *at least* in principle before you begin, unless you are doing a proof of concept. Its a lot of work to put together only to be told
-"you should have mentioned this earlier, Jasmyn in marketing just got HER customer survey approved last week and we can't do two".
+One of the better tools in the tech writer arsenal; the user survey. Generally speaking, you can learn some valuable, user-specific data points that you can't get from analytics or NPS data. 
+
+It's the difference between qualitative and quantitative data: quantitative data is facts, figures and metrics. Qualitative data is more prescriptive, more rich but ultimately, harder to prove or use in a technical fashion. 
+A user survey is rich, single user information- if this were a scientific experiment, it would be an individual case study rather than a double-blind experiment. Despite being such rich information, the value from a user survey
+comes from having multiple data points to prove your hypothesis... in other words, multiple respondents. A well designed survey can aid your quest for more funding or a new documentation solution better than all the pleading 
+in the world. 
+
+I'm not going to get into NPS (net promoter score) here because you can write five blog posts and still not cover all  
+of the NPS theories out there. I'll try and to stick to practical, user-survey-related steps.
+
+**Side note:** If you're planning a survey, it's in your best interest to get management approval *at least* in principle before you begin, unless you are doing a proof of concept. Its a lot of work to put together only to hear
+"Jasmyn in marketing just got HER customer survey approved last week and we aren't doing two".
 
 ## Step one: create a survey brief
-Every good measure needs parameters and as such, the hardest thing in qualitative research is working out where to stop. This is just as true for science, as it is for good UX! So firstly, establish who your audience is for the survey. 
-Which particular group of customers (or all of them?!) and why.
+Every good measure needs parameters and as such, the hardest thing in qualitative research is working out where to stop. This is just as true for science research, as it is for good UX! So firstly, establish who your audience 
+is for the survey. Which particular group of customers are you targeting and why.
 
-Now BEFORE you move on; go and check that this information doesn't already exist, nestled in some other department. Don't waste your precious time and your workplaces precious money getting answers you already have!
+Now BEFORE you move on; go and check that this information doesn't already exist, nestled in some other department. Don't waste your precious time with questions you have the answers to.
 
 Create an objective. This could be a hypothesis, a particular issue you want to solve, or a specific data set you want to acquire.
 Work out how many responses you want or need. This is important, as you need to know how many responses will "prove" your answers, or even just how many of your customers are reading your emails.
@@ -52,10 +59,15 @@ At this stage, you should have your entire project including terms and condition
 
 At this point, your survey should now be ready to deliver in whatever format you've chosen. Remember, you can test with a beta group if you like, before sending it to your entire mailing list. A few final points to remember:
 
-* Make sure you've contacted every internal person that needs to know, about your survey.
+* Make sure you've contacted every internal person that needs to know about your survey.
 * Make sure this information **has not already been collected**. You should never replicate a survey that has been done already, unless a suitable period of time has elapsed.  
-* If you are telling customers their data is secure, **do your research**. Make sure it IS secure before promising. Customer insights are not worth breaking their trust.
+* If you are telling customers their data is secure, **do your research**. Make sure it will be secure before making that promise. Customer insights are not worth breaking their trust.
 * Make sure you're using the correct language, corporate branding and layout.
 * Make sure to thank your customers for their participation! They don't have to do this you know. A brief intro is a great place for this.
 
-Lastly, don't forget to enjoy the process! Helping to improve your product whether it be documentation, software or hardware should be enjoyable. If you make it an authentic experience for your customers, they will enjoy being able to contribute in some small way, to making things better. Or win a prize. Whatever ringles their jingle.
+Lastly, don't forget to enjoy the process and help your customers enjoy the process. Improving your product in any way should be a win-win for everyone. If you make it a worthwhile experience for your customers, they will enjoy
+being able to contribute in some way; by making things better or helping to drive a change that helps their business. Or win a prize. But bringing them along with you on your improvement journey will help increase engagement. 
+Peope like feeling like the have control, like they can make a difference. Simply listening to your customers is a good way to start showing them they are making a difference. 
+
+
+
