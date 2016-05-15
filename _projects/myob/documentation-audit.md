@@ -6,19 +6,19 @@ project: Documentation audit / information architecture restructure
 ---
 
 Working with the project, QA and business analyst teams, I scoped and analysed requirements, and performed content audits ready to implement
-an information architecture redesign and update the documentation tools. This project is still in flight, so I have documented the strategy I 
-planned instead of providing samples. 
+an information architecture redesign and update the documentation tools. This project is still in flight, so I have documented the strategy I
+planned instead of providing samples.
 
 ## Current Problems
 
 ### Issue One
-The existing help centres are created in Framemaker, compiled via WebWorks and copied to servers that host the information. This is an 
-expensive and insecure method. It's also incredibly slow- to copy a single help centre across normally takes around an hour. 
-Changes need to be bundled together as it is inefficient to spend three hours copying for one change (3x help centres). 
+The existing help centres are created in Framemaker, compiled via WebWorks and copied to servers that host the information. This is an
+expensive and insecure method. It's also incredibly slow- to copy a single help centre across normally takes around an hour.
+Changes need to be bundled together as it is inefficient to spend three hours copying for one change (3x help centres).
 Often issues and bugs remain live in the content long after they are identified, waiting for the next content update.
 
 ### Issue Two
-The desktop product is very old and the help content is enormous. People want it to be more streamlined and usable but nobody knows where 
+The desktop product is very old and the help content is enormous. People want it to be more streamlined and usable but nobody knows where
 to start.
 
 ## Audit process

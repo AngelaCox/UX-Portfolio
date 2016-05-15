@@ -1,7 +1,7 @@
 ---
 company:  NEXTDC
 position: Senior Technical Writer
-thumbnail: images/NEXTDC.jpg
+thumbnail: images/ONEDC.jpg
 project: ONEDC
 ---
 

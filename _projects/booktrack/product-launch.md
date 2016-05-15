@@ -1,8 +1,7 @@
 ---
 company:  Booktrack
 position: Creative Director and Technical Writer
-thumbnail: images/BOOKTRACK.jpg
-image: images/BOOKTRACK.jpg
+thumbnail: images/LAUNCH.jpg
 project: Product Launch - The Power of Six
 ---
 
@@ -16,4 +15,3 @@ Working to an exceptionally tight deadline, the team worked around the clock to 
 Below is an excerpt of our mocked up finished product for the Power of 6 (Spot the typo in the video! That was not delivered in the final product).
 
 {% youtube lgjc20YHYPA %}
-
