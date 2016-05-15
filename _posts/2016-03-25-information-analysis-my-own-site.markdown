@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Information analysis: my own site"
-date:   2016-03-05 20:36:58
+date:   2016-04-05 20:36:58
 tags:
   - tools
   - information architecture
@@ -19,16 +19,16 @@ One of the best ways to learn is to review your own work publicly, then others c
 Full disclosure? I scrapped my original portfolio design two weeks in. I had originally intended to create an interactive portfolio, using the non-linear story tool Twine. Seriously if you haven't already, [check Twine out](https://twinery.org/), it's really cool.
 
 I was seduced by how 'unique' it would be, I could create an interactive, clickable trip through my career! There could be pictures and music, or links, video... except I couldn't. Not really. Or rather, not without some serious hours put in. 
-Sometimes you can scope out a project you really want to do, only to have to admit to yourself the time and effort required aren't going to translate into the professional looking outcome you expected. 
+Sometimes you can scope out a project you really want to do only to have to admit to yourself the time and effort required aren't going to translate into the professional looking outcome you expected. 
 And so it was with Twine.
 
 ![avatar picture]({{ site.url }}/images/twineoutput.png)
 
 See? ^^ That's the final output in its most basic form. Yes, you can make it more pretty, but sometimes it's more cost effective to admit that you need a better solution and scrap it, rather than 
-continue out of mistaken pride or because you're really stubborn. *Aherm* After a bit of analysis, I concluded that nobody coming to check out a portfolio is going to be impressed by something that 
-looks 'kind of okay', even if I do show them how bad the original is. 
+continue out of mistaken pride or because you're really stubborn.  *Cough*.  After a bit of analysis, I concluded that nobody coming to check out a portfolio is going to be impressed by something that 
+looks 'kind of okay', even if I do show them how bad the original was. 
 
-I decided to scrap Twine and set up a simple Jekyll website, using BitBucket and Aerobatic to manage hosting, and wrote the content in Atom and this is a far superior outcome, even if Twine still IS
+I decided to scrap Twine and set up a simple Jekyll website, using BitBucket and Aerobatic to manage hosting, and wrote the content in Atom. This is a far superior outcome, even if Twine still IS
 really fun.
 
 ## Layout and architecture plan
@@ -44,15 +44,14 @@ content to sit behind images in the portfolio section. I do think this is an imp
 of design innovation. In saying that, I really don't think there is a need for further complexity, so I probably would leave it as it is. Simplicity is okay after all. 
 
 The blog posts layout... well. The posts can be sorted by date, or by tag. Sorting by date is okay, when you click into it, you can see they are sorted by year. You can't see the actual date without 
-clicking into a specific post. When you sort posts by tag? YUK. GROSS. I really hate that and I'll definitely make stylistic updates going forward. The posts sorted by tag have generated a mysterious 
+clicking into a specific post. When you sort posts by tag? YUK. GROSS. EWW. I really hate that and I'll definitely make stylistic updates going forward. The posts sorted by tag have generated a mysterious 
 numeral next to each one. I eventually worked out this was the number of posts related to each tag but I'm not ashamed to admit that took me a second to work out. I don't think the blog section is great, 
 so I'll put some thought into intuitive improvements.
 
 When you click an anchor (e.g. the full tag list under the Tag Archive heading) it drops you to the location, however the heading you clicked is NOT the middle of the page, it's crammed up the top. 
 This is not intuitive and leaves you searching. When you compare that to the nice slide animation on the front page (when clicking from one heading to another in the sidebar), it get irritating.
 
-Lastly, at the top of the side bar, my name appears. This should be a link- I keep clicking it myself, trying to get back to home and it doesn't go anywhere. It's **really** annoying. 
-
+Annoyingly, at the top of the side bar my name appears. This should be a link- I keep clicking it myself, trying to get back to home and it doesn't go anywhere. It's **really** annoying. 
 I've also discovered that clicking a link to an external site does not open a new tab, it opens in your current tab. I'll definitely be fixing that, it's no help to me if the reader clicks a link 
 and gets pulled away from my site. 
 
