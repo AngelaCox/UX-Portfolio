@@ -21,4 +21,4 @@ I created the administrator user and setup documentation and worked with IT on f
 My project was completed on time and within budget and NEXTDC received their ISO 27001 certification, a contractual requirement
 for many customers.
 
-For more info on the Alfresco Opensource product we implemented, go and check out [Alfresco's community page](https://www.alfresco.com/community).
+For more info on the Alfresco Opensource product we implemented, go and check out [Alfresco's community page](https://www.alfresco.com/community){:target="_blank"}.

@@ -14,6 +14,6 @@ This website makes use of open source and creative commons projects;
 
 | Project       | License       | URL   |
 |:-------------:|:-------------:|:-----:|
-| Prologue by HTML5 UP | [CCA 3.0](http://html5up.net/license) | [http://html5up.net/uploads/demos/prologue/](http://html5up.net/uploads/demos/prologue/) |
-| jekyllrb     | [MIT](https://raw.githubusercontent.com/jekyll/jekyll/master/LICENSE)      | [https://jekyllrb.com/](https://jekyllrb.com/) |
-| responsive-youtube-jekyll-tag | [MIT](https://github.com/UsabilityEtc/responsive-youtube-jekyll-tag/blob/master/LICENSE) | [http://usabilityetc.com/2015/04/responsive-youtube-jekyll-plugin/](http://usabilityetc.com/2015/04/responsive-youtube-jekyll-plugin/) |
+| Prologue by HTML5 UP | [CCA 3.0](http://html5up.net/license) | [http://html5up.net/uploads/demos/prologue/](http://html5up.net/uploads/demos/prologue/){:target="_blank"} |
+| jekyllrb     | [MIT](https://raw.githubusercontent.com/jekyll/jekyll/master/LICENSE)      | [https://jekyllrb.com/](https://jekyllrb.com/){:target="_blank"} |
+| responsive-youtube-jekyll-tag | [MIT](https://github.com/UsabilityEtc/responsive-youtube-jekyll-tag/blob/master/LICENSE){:target="_blank"} | [http://usabilityetc.com/2015/04/responsive-youtube-jekyll-plugin/](http://usabilityetc.com/2015/04/responsive-youtube-jekyll-plugin/){:target="_blank"} |
