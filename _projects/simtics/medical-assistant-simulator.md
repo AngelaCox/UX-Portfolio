@@ -7,7 +7,7 @@ project: Medical Assistant Simulator
 
 Working within a team of technical writers, I wrote and produced detailed technical specifications for study text, interactive medical anatomies, film shoots and web-based simulations.
 
-![3D rotational image]({{ site.url }}/images/paediatrics.png){:target="_blank"}
+![3D rotational image]({{ site.url }}/images/paediatrics.png)
 
 This product is used by nurse and medical assistant trainees for interactive training. Some of the available learning materials are:
 
@@ -16,7 +16,7 @@ This product is used by nurse and medical assistant trainees for interactive tra
 * Videos of procedures being performed.
 * Interactive training questionnaires.
 
-![3D rotational image]({{ site.url }}/images/terminology.png){:target="_blank"}
+![3D rotational image]({{ site.url }}/images/terminology.png)
 
 The end result is a sophisticated and intuitive training package that can be used as a main or supplementary resource.
 Contracted for deliverables in three months, all achieved on time and on budget.
