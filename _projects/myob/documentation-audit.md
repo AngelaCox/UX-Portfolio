@@ -8,7 +8,7 @@ project: Documentation audit / information architecture restructure
 Working with the project, QA and business analyst teams, I scoped and analysed requirements, and performed content audits ready to implement an information architecture redesign and update the documentation tools. This project is still in flight, so I have documented my strategy as an example.
 
 ## User audit process
-The first step is user surveys; internal and external. The survey scope was based around the following three areas;
+The first step is user surveys; internal and external. The survey scope was based around the following three areas:
 
 * How easily can you find and use information?
 * Which information are you accessing regularly, and why?
@@ -16,7 +16,7 @@ The first step is user surveys; internal and external. The survey scope was base
 
 Below I've documented the single biggest internal and external issues identified by my internal and external user review.
 
-### Issue one: internal
+### Issue one: internal tooling issues
 The existing help centres are created in Framemaker, compiled via WebWorks and copied to servers that host the information. This is incredibly slow- to copy a single help centre takes around an hour (manual copy to a server).
 Changes need to be bundled together as it is inefficient to spend three hours copying for one change (3x help centres).
 Often issues and bugs remain live in the content long after they are identified, waiting for the next content update.
@@ -24,7 +24,7 @@ Often issues and bugs remain live in the content long after they are identified,
 ### Impacts
 This impacts real time content delivery and updates but also the team deliverables. Small bugs and issues are sometimes forced to be carried over to a new iteration to be included as part of a larger piece of work, as a full content update for a single issue may not be severe enough to fix. This impacts the backlog and causes frustration both for the tech comms team and the project team.    
 
-### Issue two: external
+### Issue two: external content usability issues
 The desktop product is very old and the help content is enormous. Users want it to be more streamlined and usable but internally, nobody knows where to start. There is a real FOMO attitude with content creation for this product: the SMEs are scared that if they leave one single thing out, it will be the one thing the user needs. So they add everything.
 This issue is compounded by an inadequate search engine which is configured as part of Webworks. The search engine does not sort, there is no weighted results and all partial results are included. I tested this with a copied and paste section from the help itself: 164 results before the relevant page was found and that was for an exact search.  
 ### Impacts

@@ -13,6 +13,6 @@ This year as well as preparing the documentation, I offered to create a research
 
 ![3D rotational image]({{ site.url }}/images/schedulechange.png)
 
-I worked with a several subject matter experts to supply the content, and worked within a supplied template and style guide to format and polish the content. Timeframes for editing were incredibly tight due to a few late SME deliverables, however after a mammoth effort, I got the 154 pages finished and sent to the printer for printing.
+For the workbook, I coordinated with a large group of subject matter experts to supply the content (more than ten people), and worked within a supplied template and style guide to format and polish the content. Timeframes for editing were incredibly tight due to a few late SME deliverables, however after a mammoth effort across two days, I got the 154 pages finished and sent to the printer for printing on delivery day.
 
 The seminar page can be [found here](http://myob.com.au/myob/accountants/tax-seminars-2016-1257836555394) to give an idea of the scope.
