@@ -2206,6 +2206,10 @@
 				margin-left: 5%;
 				list-style-type: disc;
 			}
+			
+			.post-index ul li {
+				list-style-type: none;
+			}
 
 
 			#main > section.four {

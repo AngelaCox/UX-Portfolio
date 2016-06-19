@@ -19,4 +19,4 @@ Our CTO Paul Gampe talks a little about ONEDC in the below video.
 
 {% youtube jIXagxQ-ZVY %}
 
-For more information, check out our [GitHub repository](https://github.com/ONEDC/obix/commits/master), the [archived website for ONEDC](https://web.archive.org/web/20141218051742/http://onedc.com/) and the link to our [oBIX developers community page](https://web.archive.org/web/20150219210743/http://onedc.com/community/).
+For more information, check out our [GitHub repository](https://github.com/kahn/obix/commits/master), the [archived website for ONEDC](https://web.archive.org/web/20141218051742/http://onedc.com/) and the link to our [oBIX developers community page](https://web.archive.org/web/20150219210743/http://onedc.com/community/).
