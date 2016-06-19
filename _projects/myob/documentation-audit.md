@@ -6,8 +6,7 @@ project: Documentation audit / information architecture restructure
 ---
 
 Working with the project, QA and business analyst teams, I scoped and analysed requirements, and performed content audits ready to implement
-an information architecture redesign and update the documentation tools. This project is still in flight, so I have documented the strategy I
-planned instead of providing samples.
+an information architecture redesign and update the documentation tools. This project is still in flight, so I have documented the strategy I planned instead of providing samples.
 
 ## Current Problems
 
