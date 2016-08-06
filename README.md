@@ -1,7 +1,7 @@
 
 
 Heads in posts
- 
+
 Use H2 and onwards for headings. H1 is special and looks crap
 
 How to link video
@@ -12,5 +12,3 @@ How to add an image
 
 github docs link
 https://github.com/ONEDC/obix/tree/master/docs
-
-bump
