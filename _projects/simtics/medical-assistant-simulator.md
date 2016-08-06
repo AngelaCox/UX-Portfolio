@@ -2,7 +2,7 @@
 company:  SIMTICS
 position: Technical Writer
 thumbnail: images/SIMTICS.jpg
-project: Medical Assistant Simulator
+project: Medical assistant simulator
 ---
 
 Working within a team of technical writers, I wrote and produced detailed technical specifications for study text, interactive medical anatomies, film shoots and web-based simulations.

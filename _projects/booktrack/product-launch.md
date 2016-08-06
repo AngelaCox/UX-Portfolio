@@ -2,7 +2,7 @@
 company:  Booktrack
 position: Creative Director and Technical Writer
 thumbnail: images/LAUNCH.jpg
-project: Product Launch - The Power of Six
+project: Product launch - The Power of Six
 ---
 
 Working with John Neill, Director of Engineering at Park Road Post Production (Lord of the Rings; Return of the King, The Hobbit, District 9) and author James Frey, I helped produce the launch product for Booktrack, The Power of Six. Combining a musical score with an ambient background track and specific sfx, my job as creative director was to edit and review the score, specify sfx and ambient background sound and work with a team of audio engineers and composers to bring the piece to life.
