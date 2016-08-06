@@ -21,7 +21,7 @@ A user survey can provide rich, single user information- if a user survey were a
 ## Creating a survey brief; or Every Good Measure Needs Parameters
 I personally think the hardest thing in qualitative research is working out where to stop, otherwise known as I HAVE SO MANY QUESTIONS FOR YOU RIGHT NOW. This is just as true for science research as it is for good UX! So firstly, establish **who your audience is for the survey**. Which particular group of customers are you targeting, and why. If you have a huge sample group, it can sometimes be easier to work out who you do NOT wish to target and why. Whoever is left, is your target market. Remember the game Guess Who? That's what you you're doing when you work out who you don't want to target.
 
-![avatar picture]({{ site.url }}/images/alfred.png)
+![avatar picture]({{ site.url }}/images/alfred.jpg)
 Pictured: This mustache is not in my brief.
 
 Now BEFORE you move on; go and check that this information doesn't already exist, nestled in some other department. Don't waste your precious time with questions you have the answers to.
