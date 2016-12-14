@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Portfolio Mk II"
+date:   2016-11-27
+tags:
+  - ux
+  - tools
+  - portfolio
+  - experiment
+---
+
+Talk about portfolio mk I
+
+So I was really happy with my inital portfolio offering. I think there are definitely a few tweaks but to help showcase what I did as a technical writer it was very effective. Bootstrap meant I never had to worry too much about design, which a year ago, was how I liked it.
+
+ A while back, I was trying out a tool by Chris Klimas called Twine. It's a non-linear storytelling tool that allows you to create these interactive 'choose your own adventure' style storyboards that you can customise with CSS and other magic things.
+
+ I hated it and couldn't use it at all.
+
+ Well, that's not actually true. The version of Twine I was using, was not quite what I had hoped to achieve, for the task at hand. I couldn't get it looking good enough with the minimal design input I was hoping for, so I had to can the idea for Twine, and move to my Bootstrap theme portfolio, which
+
+* Talk about Twine and what happened the first time
+
+* Talk about the class, and what we covered with the html / CSS stuff. How it wasn't anything we didn't know, but that it was also enough to make me want to try Twine again, and see if now I know a bit more enough to be able to utilise it as a tool for UX.
+
+* Going to try and use GitHub and GitHub pages this time, hosting Twine files. For this one, I used atom to Author, BitBucket to host and Aerobatic to compile. Previously used Travis CI to compile, and tried with (tried being the operative word) with PanDoc and Publican. Ugh.
