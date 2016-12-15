@@ -3,7 +3,7 @@ This is my updated portfolio, since beginning an attempted career change, from t
 You can see it's moved about- I've cloned this from Bitbucket so you lucky peeps can review what I've been updating!
 
 Previous to this, tools I was playing about with for my portfolio include:
-* python (tool, language, whatever)
+* Python (tool, language, whatever)
 * Ubuntu
 * TravisCI
 * Publican
