@@ -1,16 +1,20 @@
+This is my updated portfolio, since beginning an attempted career change, from technical writing to UX. 
 
+You can see it's moved about- I've cloned this from Bitbucket so you lucky peeps can review what I've been updating!
 
-Heads in posts
+Previous to this, tools I was playing about with for my portfolio include:
+python
+Ubuntu
+TravisCI
+Publican
 
-Use H2 and onwards for headings. H1 is special and looks crap
+... obviously not all at once.
 
-How to link video
-{% youtube EJAOOPdw3h8 %}
+My current portfolio (https://angportfolio.aerobatic.io/) utilises:
+Atom
+GitKraken
+BitBucket
+Aerobatic
+I had a bit of help on the CSS previously (Sam Wilson) but going forward this GitHub Pages version is all my own work. 
 
-How to add an image
-![avatar picture]({{ site.url }}/images/avatar.png)
-
-github docs link
-https://github.com/ONEDC/obix/tree/master/docs
-
-bump
+It's also a work in progress, so my apologies if it's ridiculous. 
